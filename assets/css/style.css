@@ -1,0 +1,93 @@
+.text-center {
+    text-align: center;
+}
+.wpl-middle{
+    vertical-align: middle;
+}
+.wpl-clear{
+    clear: both;
+}
+.wpl-overflow{
+    overflow: hidden;
+}
+
+div.wpl-testimonial-section .testimonial-lite:focus{
+    outline: none;
+}
+.wpl-testimonial-section.wpl-testimonial-carousel .slick-list{
+    margin-left: -12px;
+    margin-right: -12px;
+}
+.wpl-testimonial-section.wpl-testimonial-carousel .testimonial-lite{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+/* Nav Style */
+div.wpl-testimonial-section .slick-prev,
+div.wpl-testimonial-section .slick-next{
+    font-size: 20px;
+    line-height: 30px;
+    display: block;
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    cursor: pointer;
+    outline: none;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    margin-top: -16px;
+    z-index: 22;
+    color: #ddd;
+    border: 1px solid #ddd;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+div.wpl-testimonial-section .slick-prev:hover,
+div.wpl-testimonial-section .slick-next:hover{
+    color: #f97352;
+    border-color: #f97352;
+}
+
+div.wpl-testimonial-section .slick-prev {
+    left: 0;
+}
+div.wpl-testimonial-section .slick-next {
+    right: 0;
+}
+
+/* Image Style */
+.tl-client-image{
+    margin-bottom: 25px;
+    display: inline-block;
+}
+.tl-client-image img{
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+.wpl-testimonial-section .tl-client-testimonial{
+    margin-bottom: 25px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.wpl-testimonial-section h2.tl-client-name{
+    font-size: 14px;
+    font-weight: 700;
+    color: #f97352;
+    text-transform: uppercase;
+    line-height: 16px;
+    margin-bottom: 14px;
+}
+.wpl-testimonial-section h6.tl-client-designation{
+    font-size: 14px;
+    font-weight: 600;
+    color: #999999;
+    line-height: 16px;
+}

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonial Lite\n"
+"POT-Creation-Date: 2016-12-08 13:54+0600\n"
+"PO-Revision-Date: 2016-12-08 13:55+0600\n"
+"Last-Translator: \n"
+"Language-Team: WPLimb <wplimb@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;esc_atts__;"
+"esc_atts_e;esc_atts_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/meta-box/meta-box.php:5
+msgid "Testimonial Options"
+msgstr ""
+
+#: ../admin/meta-box/meta-box.php:22
+msgid "Designation:"
+msgstr ""
+
+#: ../admin/meta-box/meta-box.php:24
+msgid "Type client designation here."
+msgstr ""
+
+#: ../inc/functions.php:11
+msgid "Testimonials"
+msgstr ""
+
+#: ../inc/functions.php:12
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/functions.php:13 ../inc/functions.php:14
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../inc/functions.php:15
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../inc/functions.php:16
+msgid "New Testimonial"
+msgstr ""
+
+#: ../inc/functions.php:17
+msgid "View Testimonial"
+msgstr ""
+
+#: ../inc/functions.php:18
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../inc/functions.php:19
+msgid "No Testimonials found"
+msgstr ""
+
+#: ../inc/functions.php:20
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: ../inc/functions.php:21
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: ../inc/functions.php:22
+msgid "Testimonials Lite"
+msgstr ""
+
+#: ../inc/shortcodes.php:105
+msgid "No testimonials found"
+msgstr ""
